@@ -266,7 +266,7 @@ class ChatterboxTTS:
                 speech_tokens=speech_tokens,
                 ref_dict=self.conds.gen,
             )
-        return torch.from_numpy(wav).unsqueeze(0)
+        return wav
 
     def inference_stream(
         self,

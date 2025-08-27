@@ -96,4 +96,4 @@ class ChatterboxVC:
                 speech_tokens=s3_tokens,
                 ref_dict=self.ref_dict,
             )
-        return torch.from_numpy(wav).unsqueeze(0)
+        return wav

@@ -28,8 +28,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/davidbrowne17/chatterbox-streaming"
-Repository = "https://github.com/davidbrowne17/chatterbox-streaming"
+Homepage = "https://github.com/DBC201/chatterbox-streaming"
+Repository = "https://github.com/DBC201/chatterbox-streaming"
 
 [build-system]
 requires = ["setuptools>=61.0"]

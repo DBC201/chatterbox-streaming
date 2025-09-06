@@ -11,7 +11,7 @@ authors = [
     {name = "dbc201", email = "denizbcakiroglu@gmail.com"}
 ]
 dependencies = [
-    "numpy~=1.26.0",
+    "numpy>=2.0,<3.0",
     "resampy==0.4.3",
     "librosa >=0.10,<0.12",
     "s3tokenizer",

@@ -6,8 +6,8 @@ readme = "README.md"
 requires-python = "==3.10.8"
 license = {file = "LICENSE"}
 authors = [
-    {name = "resemble-ai", email = "engineering@resemble.ai"}
-    {name = "davidbrowne17", email = "davidbrowne17@gmail.com"}
+    {name = "resemble-ai", email = "engineering@resemble.ai"},
+    {name = "davidbrowne17", email = "davidbrowne17@gmail.com"},
     {name = "dbc201", email = "denizbcakiroglu@gmail.com"}
 ]
 dependencies = [
